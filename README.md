@@ -1,25 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Steps for the project : 
-select a directory and in the terminal
-# npm i create-react-app -g
-
-#npm i firebase-tools -g
-
-### `create-react-app [name of application]`
-
-You can now run `npm start` and you can see the react app is running on localhost:3000
-
-### `npm i firebase`
-
-### `firebase login`
-
-### `firebase init (only select hosting)`
-
-### `npm run build`
-
-### `firebase deploy`
-
 ## Available Scripts
 
 In the project directory, you can run:
