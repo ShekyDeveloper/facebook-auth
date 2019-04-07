@@ -6,19 +6,19 @@ select a directory and in the terminal
 
 #npm i firebase-tools -g
 
-# create-react-app [name of application]
+### `create-react-app [name of application]`
 
 You can now run `npm start` and you can see the react app is running on localhost:3000
 
-# npm i firebase
+### `npm i firebase`
 
-# firebase loging
+### `firebase login`
 
-#firebase init (only select hosting)
+### `firebase init (only select hosting)`
 
-# npm run build
+### `npm run build`
 
-# firebase deploy
+### `firebase deploy`
 
 ## Available Scripts
 
